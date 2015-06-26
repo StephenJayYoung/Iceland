@@ -2,7 +2,7 @@ name: Hello Iceland
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
-url: http://youngcreativespace.com/NewIcelandBlog/
+url: http://youngcreativespace.com/Iceland/
 author:
     name: Nii Adjetey Sowah
     twitter: #
