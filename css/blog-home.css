@@ -1,0 +1,53 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+}
+
+/* instafeed stuff - populates index page with instagram pics  */
+#instafeed{
+  padding: .2px .2px .2px .2px;
+  margin:10px;
+ /* border:1px solid #e1e1e1;*/
+  display:inline-block;
+  border-radius: 4px;
+  /*position: fixed;*/
+/*  padding-right: 5px;
+  padding-left: 5px;*/
+  max-width: 100%;
+  height: auto;
+
+ /* float: right;*/
+}
+
+#instafeed a {
+  padding: .1px .1px .1px .1px;
+  margin:5px;
+/*  border:1px solid #e1e1e1;*/
+  display:inline-block;
+  border-radius: 1px;
+  /*position: fixed;*/
+  padding-right: 5px;
+  padding-left: 5px;
+  max-width: 100%;
+  height: auto;
+}
+
+#instafeed a img {
+  max-width: 100%;
+  height: auto;
+}
+/* end instafeed stuff */
+
+#title{
+  color: blue;
+  font-weight: 25px;
+}
