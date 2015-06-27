@@ -47,7 +47,6 @@ footer {
 }
 /* end instafeed stuff */
 
-#title{
-  color: blue;
-  font-weight: 25px;
+.mainNav {
+	color: blue;
 }
