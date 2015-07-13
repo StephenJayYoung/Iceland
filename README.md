@@ -1,1 +1,1 @@
-Simple website for documenting the Young boyz trip in Iceland
+Simple website for documenting the Young boyz trip in Iceland: http://stephenjayyoung.github.io/Iceland
